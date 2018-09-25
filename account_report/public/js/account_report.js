@@ -5,7 +5,7 @@ $(function() {
 
 	$('.footer-powered').hide();  // or .remove();
 
-	$('.navbar-home').html('<img class="erpnext-icon" src="https://www.scantechlaser.com/images/logo-scantech.png"/>');
+	$('.navbar-home').html('<img class="erpnext-icon" src="https://www.scantechlaser.com/images/favicon.ico"/>');
 
 });
 
